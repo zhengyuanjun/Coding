@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#asdas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,6 +147,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78eba359cd9466aa",
+  "active": "a34b5d3cafe3c996",
   "lastOpenFiles": []
 }
